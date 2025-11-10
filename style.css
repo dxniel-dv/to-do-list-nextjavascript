@@ -1,0 +1,32 @@
+body {
+  background-color: #0f172a; 
+  color: white; 
+  font-family: Arial, sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0;
+}
+
+main {
+  text-align: center; 
+  background-color: #1e293b; 
+  padding: 20px; 
+  border-radius: 8px; 
+  width: 300px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+ul {
+    padding-left: 0;
+    list-style-position: inside;
+    text-align: left; 
+    max-width: 250px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+}
