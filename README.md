@@ -27,7 +27,6 @@ O projeto tem um fundo escuro com texto branco e uma caixinha centralizada — f
 ---
 
 Se quiser rodar o projeto localmente:
-
+```bash
 npm install
-
-npm run dev
+npm run dev
