@@ -26,7 +26,6 @@ O projeto tem um fundo escuro com texto branco e uma caixinha centralizada — f
 
 ---
 
-Como executar
 Se quiser rodar o projeto localmente:
 
 npm install
