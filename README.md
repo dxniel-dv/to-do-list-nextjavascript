@@ -19,10 +19,9 @@ O objetivo é aprender como o React atualiza a tela em tempo real e como organiz
 - Interface simples e centralizada
 
 ---
-
+Visual
 ![Prévia do Projeto](https://github.com/dxniel-dv/to-do-list-nextjavascript/blob/main/image.png?raw=true)
 
-Visual
 O projeto tem um fundo escuro com texto branco e uma caixinha centralizada — feito para ser o mais simples possível, ideal para iniciantes.
 
 ---
