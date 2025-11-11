@@ -1,4 +1,4 @@
- To-Do List
+ To-Do-List
 
 Um projeto simples feito com Next.js e React, criado para praticar meus primeiros passos com JavaScript e JSX.  
 O objetivo é aprender como o React atualiza a tela em tempo real e como organizar um projeto moderno.
